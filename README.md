@@ -1,0 +1,1 @@
+This repo is a proof-of-concept where I explore building and deploying an AWS Lambda function written in Golang and linking to a shared C library (libsodium) using Docker.
